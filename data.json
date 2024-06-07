@@ -1,0 +1,881 @@
+{
+    "iphones": [
+        {
+            "id": 1,
+            "name": "iPhone 13",
+            "description": "The latest iPhone with A15 Bionic chip and advanced dual-camera system.",
+            "image_url": "https://www.ixbt.com/img/n1/news/2021/8/3/Apple_iphone13_colors_09142021_big.jpg.large_large.jpg",
+            "price": 799,
+            "features": [
+                "A15 Bionic chip",
+                "6.1-inch display",
+                "Dual-camera system"
+            ],
+            "colors": [
+                "#AD0414",
+                "#F9F3EE",
+                "#1B232A",
+                "#276282",
+                "#384C37"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "iPhone 13 Pro",
+            "description": "The pro version of iPhone 13 with A15 Bionic chip and ProMotion technology.",
+            "image_url": "https://i.ebayimg.com/images/g/jeIAAOSwZU9jcpQ-/s-l1600.jpg",
+            "price": 999,
+            "features": [
+                "A15 Bionic chip",
+                "6.1-inch ProMotion display",
+                "Triple-camera system"
+            ],
+            "colors": [
+                "#C0C0C0",
+                "#000000",
+                "#0033CC",
+                "#33CC33"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "iPhone 12",
+            "description": "The previous generation iPhone with A14 Bionic chip and dual-camera system.",
+            "image_url": "https://imobile.market/assets/images/catalog/iphone/img/iphone12/iphone-12-select-2021.jpg",
+            "price": 699,
+            "features": [
+                "A14 Bionic chip",
+                "6.1-inch display",
+                "Dual-camera system"
+            ],
+            "colors": [
+                "#FF0000",
+                "#FFFFFF",
+                "#000000",
+                "#00FF00",
+                "#0000FF"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "iPhone SE (2022)",
+            "description": "The affordable iPhone with A15 Bionic chip and a single-camera system.",
+            "image_url": "https://www.smartgeneration.it/wp-content/uploads/2023/05/IPHONE-SE-2022-3.jpg",
+            "price": 429,
+            "features": [
+                "A15 Bionic chip",
+                "4.7-inch display",
+                "Single-camera system"
+            ],
+            "colors": [
+                "#FFFFFF",
+                "#000000",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "iPhone 12 Pro",
+            "description": "The pro version of iPhone 12 with A14 Bionic chip and LiDAR scanner.",
+            "image_url": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/refurb-iphone-12-pro-graphite-2020_AV1?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1635202844000",
+            "price": 899,
+            "features": [
+                "A14 Bionic chip",
+                "6.1-inch display",
+                "Triple-camera system with LiDAR"
+            ],
+            "colors": [
+                "#C0C0C0",
+                "#000000",
+                "#FFD700",
+                "#0000FF"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "iPhone 11",
+            "description": "The budget-friendly iPhone with A13 Bionic chip and dual-camera system.",
+            "image_url": "https://i.insider.com/5d7f8d702e22af04684d728a?width=700",
+            "price": 599,
+            "features": [
+                "A13 Bionic chip",
+                "6.1-inch display",
+                "Dual-camera system"
+            ],
+            "colors": [
+                "#FF0000",
+                "#FFFF00",
+                "#000000",
+                "#FFFFFF",
+                "#00FF00"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "iPhone 11 Pro",
+            "description": "The pro version of iPhone 11 with A13 Bionic chip and triple-camera system.",
+            "image_url": "https://grademobile.co.uk/cdn/shop/products/iphone-11-pro-select-2019_9f5ed010-384d-4b7c-a6a4-9282ecbf39d8.jpg?v=1711367946",
+            "price": 899,
+            "features": [
+                "A13 Bionic chip",
+                "5.8-inch display",
+                "Triple-camera system"
+            ],
+            "colors": [
+                "#C0C0C0",
+                "#000000",
+                "#008000",
+                "#0000FF"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "iPhone XS",
+            "description": "The iPhone with A12 Bionic chip and Super Retina display.",
+            "image_url": "https://i.pinimg.com/originals/a8/58/67/a85867ae9ba63ae170001fb5a97d1c92.jpg",
+            "price": 799,
+            "features": [
+                "A12 Bionic chip",
+                "5.8-inch Super Retina display",
+                "Dual-camera system"
+            ],
+            "colors": [
+                "#FFFFFF",
+                "#000000",
+                "#FFD700"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "iPhone XR",
+            "description": "The iPhone with A12 Bionic chip and Liquid Retina display.",
+            "image_url": "https://i.ebayimg.com/images/g/i2wAAOSwHxJkghxf/s-l1600.jpg",
+            "price": 499,
+            "features": [
+                "A12 Bionic chip",
+                "6.1-inch Liquid Retina display",
+                "Single-camera system"
+            ],
+            "colors": [
+                "#FF0000",
+                "#FFFF00",
+                "#0000FF",
+                "#00FF00",
+                "#FFA500"
+            ]
+        },
+        {
+            "id": 10,
+            "name": "iPhone X",
+            "description": "The iPhone with A11 Bionic chip and Super Retina display.",
+            "image_url": "https://www.apple.com/newsroom/images/product/iphone/standard/Apple-iPhone-Xs-line-up-09122018_inline.jpg.large.jpg",
+            "price": 699,
+            "features": [
+                "A11 Bionic chip",
+                "5.8-inch Super Retina display",
+                "Dual-camera system"
+            ],
+            "colors": [
+                "#FFFFFF",
+                "#000000"
+            ]
+        }
+    ],
+    
+    "ipads": [
+            {
+                "id": 1,
+                "name": "iPad Pro 12.9\"",
+                "description": "The latest iPad Pro with M1 chip and Liquid Retina XDR display.",
+                "image_url": "https://media.karousell.com/media/photos/products/2023/12/8/ipad_pro_129_wifi_silver_256gb_1702028245_8d18ac20_progressive.jpg",
+                "price": 1099,
+                "features": [
+                    "M1 chip",
+                    "12.9-inch display",
+                    "ProMotion technology"
+                ],
+                "colors": [
+                    "#B0B0B0",
+                    "#000000"
+                ]
+            },
+            {
+                "id": 2,
+                "name": "iPad Pro 11",
+                "description": "The latest iPad Pro with M1 chip and Liquid Retina display.",
+                "image_url": "https://i.ebayimg.com/images/g/bpsAAOSwH6lkFko8/s-l1200.jpg",
+                "price": 799,
+                "features": [
+                    "M1 chip",
+                    "11-inch display",
+                    "ProMotion technology"
+                ],
+                "colors": [
+                    "#B0B0B0",
+                    "#000000"
+                ]
+            },
+            {
+                "id": 3,
+                "name": "iPad Air",
+                "description": "The iPad Air with A14 Bionic chip and 10.9-inch Liquid Retina display.",
+                "image_url": "https://www.apple.com/newsroom/images/product/ipad/standard/apple_new-ipad-air_new-design_09152020.jpg.news_app_ed.jpg",
+                "price": 599,
+                "features": [
+                    "A14 Bionic chip",
+                    "10.9-inch display",
+                    "Touch ID"
+                ],
+                "colors": [
+                    "#5AC8FA",
+                    "#FF9500",
+                    "#4A90E2",
+                    "#A3C644",
+                    "#E94C89"
+                ]
+            },
+            {
+                "id": 4,
+                "name": "iPad 10.2",
+                "description": "The iPad with A13 Bionic chip and 10.2-inch Retina display.",
+                "image_url": "https://www.apple.com/v/ipad-10.2/l/images/meta/ipad-10-2_specs__fr1waiighaem_og.png",
+                "price": 329,
+                "features": [
+                    "A13 Bionic chip",
+                    "10.2-inch display",
+                    "Touch ID"
+                ],
+                "colors": [
+                    "#B0B0B0",
+                    "#000000"
+                ]
+            },
+            {
+                "id": 5,
+                "name": "iPad Mini",
+                "description": "The iPad Mini with A15 Bionic chip and 8.3-inch Liquid Retina display.",
+                "image_url": "https://www.apple.com/newsroom/images/product/ipad/standard/Apple_iPad-mini_colors_09142021_big_carousel.jpg.large.jpg",
+                "price": 499,
+                "features": [
+                    "A15 Bionic chip",
+                    "8.3-inch display",
+                    "Touch ID"
+                ],
+                "colors": [
+                    "#FA4B32",
+                    "#B0B0B0",
+                    "#000000"
+                ]
+            },
+            {
+                "id": 6,
+                "name": "iPad Pro 12.9 2020",
+                "description": "The previous generation iPad Pro with A12Z Bionic chip and Liquid Retina display.",
+                "image_url": "https://www.umkc-hsbookstore.com/images/product/large/71965.png",
+                "price": 999,
+                "features": [
+                    "A12Z Bionic chip",
+                    "12.9-inch display",
+                    "ProMotion technology"
+                ],
+                "colors": [
+                    "#B0B0B0",
+                    "#000000"
+                ]
+            },
+            {
+                "id": 7,
+                "name": "iPad Pro 11 2020",
+                "description": "The previous generation iPad Pro with A12Z Bionic chip and Liquid Retina display.",
+                "image_url": "https://i.ebayimg.com/images/g/bpsAAOSwH6lkFko8/s-l1200.jpg",
+                "price": 749,
+                "features": [
+                    "A12Z Bionic chip",
+                    "11-inch display",
+                    "ProMotion technology"
+                ],
+                "colors": [
+                    "#B0B0B0",
+                    "#000000"
+                ]
+            },
+            {
+                "id": 8,
+                "name": "iPad Air 2020",
+                "description": "The previous generation iPad Air with A14 Bionic chip and 10.9-inch Liquid Retina display.",
+                "image_url": "https://www.apple.com/newsroom/images/product/ipad/standard/apple_new-ipad-air_new-design_09152020.jpg.news_app_ed.jpg",
+                "price": 549,
+                "features": [
+                    "A14 Bionic chip",
+                    "10.9-inch display",
+                    "Touch ID"
+                ],
+                "colors": [
+                    "#5AC8FA",
+                    "#FF9500",
+                    "#4A90E2",
+                    "#A3C644",
+                    "#E94C89"
+                ]
+            },
+            {
+                "id": 9,
+                "name": "iPad 10.2 2020",
+                "description": "The previous generation iPad with A12 Bionic chip and 10.2-inch Retina display.",
+                "image_url": "https://zerobubble.mt/cdn/shop/products/DC6F2091-73A7-460F-A237-135D551114AB-e1631897000944_800x.jpg?v=1634764671",
+                "price": 299,
+                "features": [
+                    "A12 Bionic chip",
+                    "10.2-inch display",
+                    "Touch ID"
+                ],
+                "colors": [
+                    "#B0B0B0",
+                    "#000000"
+                ]
+            },
+            {
+                "id": 10,
+                "name": "iPad Mini 2019",
+                "description": "The previous generation iPad Mini with A12 Bionic chip and 7.9-inch Retina display.",
+                "image_url": "https://i.ebayimg.com/images/g/uzsAAOSwhTxh~SpT/s-l1200.jpg",
+                "price": 399,
+                "features": [
+                    "A12 Bionic chip",
+                    "7.9-inch display",
+                    "Touch ID"
+                ],
+                "colors": [
+                    "#FA4B32",
+                    "#B0B0B0",
+                    "#000000"
+            ]
+        }
+    ],
+
+    "macs": [
+        {
+            "id": 1,
+            "name": "MacBook Air M2",
+            "description": "The latest MacBook Air with M2 chip, featuring a 13.6-inch Retina display.",
+            "image_url": "https://fdn.gsmarena.com/imgroot/news/23/06/apple-macbook-air-15/-1200/gsmarena_002.jpg",
+            "price": 1199,
+            "features": [
+                "M2 chip",
+                "13.6-inch Retina display",
+                "18-hour battery life"
+            ],
+            "colors": [
+                "#1D1D1F",
+                "#FBFBFD",
+                "#C6C6C6",
+                "#F8E7DC"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "MacBook Pro 14 M1 Pro",
+            "description": "The MacBook Pro with M1 Pro chip, featuring a 14-inch Liquid Retina XDR display.",
+            "image_url": "https://www.apple.com/v/macbook-pro-14-and-16/a/images/meta/macbook-pro-14-and-16_specs__bjyaws824nxy_og.png",
+            "price": 1999,
+            "features": [
+                "M1 Pro chip",
+                "14-inch Liquid Retina XDR display",
+                "21-hour battery life"
+            ],
+            "colors": [
+                "#1D1D1F",
+                "#FBFBFD"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "MacBook Pro 16 M1 Max",
+            "description": "The MacBook Pro with M1 Max chip, featuring a 16-inch Liquid Retina XDR display.",
+            "image_url": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/refurb-mbp16-space-m1-2021?wid=2000&hei=2000&fmt=jpeg&qlt=90&.v=1643239951000",
+            "price": 2799,
+            "features": [
+                "M1 Max chip",
+                "16-inch Liquid Retina XDR display",
+                "21-hour battery life"
+            ],
+            "colors": [
+                "#1D1D1F",
+                "#FBFBFD"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "iMac 24 M1",
+            "description": "The iMac with M1 chip, featuring a 24-inch 4.5K Retina display.",
+            "image_url": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/imac-24-og-202310?wid=600&hei=315&fmt=jpeg&qlt=95&.v=1697142273063",
+            "price": 1299,
+            "features": [
+                "M1 chip",
+                "24-inch 4.5K Retina display",
+                "Ultra-thin design"
+            ],
+            "colors": [
+                "#1B4F72",
+                "#E74C3C",
+                "#D98880",
+                "#F0B27A",
+                "#B3B6B7",
+                "#85929E",
+                "#F7DC6F"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Macbook air M1",
+            "description": "The Mac Mini with M1 chip, compact yet powerful.",
+            "image_url": "https://openshop.uz/public/storage/uploads/products/photos/202312/mxftdL1HAbijxKsufgf4clDeqSTK16r4ZtRMuJYo.jpg",
+            "price": 699,
+            "features": [
+                "M1 chip",
+                "Compact design",
+                "Versatile connectivity"
+            ],
+            "colors": [
+                "#B0B0B0"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Mac Studio",
+            "description": "The Mac Studio with M1 Ultra chip, designed for professional workflows.",
+            "image_url": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mac-studio-select-202306?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1684345161143",
+            "price": 1999,
+            "features": [
+                "M1 Ultra chip",
+                "Advanced thermal design",
+                "Extensive connectivity"
+            ],
+            "colors": [
+                "#B0B0B0"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Macbook Pro",
+            "description": "The Mac Pro with Intel Xeon W processor, designed for maximum performance.",
+            "image_url": "https://www.bhphotovideo.com/images/images2500x2500/apple_mphe3ll_a_14_macbook_pro_with_1746351.jpg",
+            "price": 5999,
+            "features": [
+                "Intel Xeon W processor",
+                "Modular design",
+                "Up to 1.5TB memory"
+            ],
+            "colors": [
+                "#B0B0B0"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "MacBook Pro 13 M1",
+            "description": "The MacBook Pro with M1 chip, featuring a 13.3-inch Retina display.",
+            "image_url": "https://olcha.uz/image/600x600/products/2021-01-28/apple-macbook-pro-13-m1-2020-8gb256gb-20996-0.jpeg",
+            "price": 1299,
+            "features": [
+                "M1 chip",
+                "13.3-inch Retina display",
+                "20-hour battery life"
+            ],
+            "colors": [
+                "#1D1D1F",
+                "#FBFBFD"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "iMac 27 Retina 5K",
+            "description": "The iMac with Intel Core i9 processor, featuring a 27-inch 5K Retina display.",
+            "image_url": "https://olcha.uz/image/original/products/2020-11-10/monoblok-apple-27-imac-retina-5k-display-2020-intel-core-i7-8gb512gb-ssd-18827-0.jpeg",
+            "price": 1799,
+            "features": [
+                "Intel Core i9 processor",
+                "27-inch 5K Retina display",
+                "Radeon Pro 5700 XT"
+            ],
+            "colors": [
+                "#B0B0B0"
+            ]
+        },
+        {
+            "id": 10,
+            "name": "MacBook Air M1",
+            "description": "The MacBook Air with M1 chip, featuring a 13.3-inch Retina display.",
+            "image_url": "https://exceldisc.com/_next/image?url=https%3A%2F%2Fapiv2.exceldisc.com%2Fmedia%2F10191%2Fapple-mgn63-macbook-air.jpg&w=3840&q=75",
+            "price": 999,
+            "features": [
+                "M1 chip",
+                "13.3-inch Retina display",
+                "18-hour battery life"
+            ],
+            "colors": [
+                "#1D1D1F",
+                "#FBFBFD",
+                "#C6C6C6",
+                "#F8E7DC"
+            ]
+        }
+    ],
+
+    "watches": [
+        {
+            "id": 1,
+            "name": "Apple Watch Series 7",
+            "description": "The latest Apple Watch with an always-on Retina display and new watch faces.",
+            "image_url": "https://www.apple.com/newsroom/images/product/watch/standard/Apple_watch-series7_hero_09142021_big.jpg.large.jpg",
+            "price": 399,
+            "features": [
+                "Always-on Retina display",
+                "Blood Oxygen app",
+                "ECG app"
+            ],
+            "colors": [
+                "#32A852",
+                "#F0F0F0",
+                "#1C1C1E"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Apple Watch SE",
+            "description": "The affordable Apple Watch with essential features to keep you connected and healthy.",
+            "image_url": "https://www.apple.com/v/apple-watch-se/n/images/meta/gps__b5gidku39qly_og.png",
+            "price": 279,
+            "features": [
+                "Retina display",
+                "Fall detection",
+                "Emergency SOS"
+            ],
+            "colors": [
+                "#D4AF37",
+                "#F0F0F0",
+                "#1C1C1E"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Apple Watch Series 6",
+            "description": "The Apple Watch with Blood Oxygen app and ECG app, featuring an always-on Retina display.",
+            "image_url": "https://univershop.uz/wp-content/uploads/2022/01/2024.jpg",
+            "price": 399,
+            "features": [
+                "Always-on Retina display",
+                "Blood Oxygen app",
+                "ECG app"
+            ],
+            "colors": [
+                "#FF3B30",
+                "#F0F0F0",
+                "#1C1C1E"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Apple Watch Series 5",
+            "description": "The Apple Watch with an always-on Retina display and compass.",
+            "image_url": "https://220volt.uz/image/cache/catalog/apple/apple%20watch/Apple%20Watch%206%20gold-600x600.jpg.webp",
+            "price": 399,
+            "features": [
+                "Always-on Retina display",
+                "Compass",
+                "Emergency SOS"
+            ],
+            "colors": [
+                "#FFD700",
+                "#F0F0F0",
+                "#1C1C1E"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Apple Watch Series 4",
+            "description": "The Apple Watch with ECG app and electrical heart sensor.",
+            "image_url": "https://www.apple.com/newsroom/images/product/watch/standard/apple-watch-series4_gold-milanese_09122018_carousel.jpg.large.jpg",
+            "price": 349,
+            "features": [
+                "ECG app",
+                "Electrical heart sensor",
+                "Fall detection"
+            ],
+            "colors": [
+                "#F0F0F0",
+                "#1C1C1E"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Apple Watch Series 3",
+            "description": "The Apple Watch with GPS and cellular, featuring an optical heart sensor.",
+            "image_url": "https://www.apple.com/newsroom/images/product/watch/standard/watch_series_3_incoming_two-wrap_big.gif.large.gif",
+            "price": 199,
+            "features": [
+                "GPS and cellular",
+                "Optical heart sensor",
+                "Emergency SOS"
+            ],
+            "colors": [
+                "#1C1C1E",
+                "#F0F0F0"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Apple Watch Nike",
+            "description": "The Apple Watch Nike edition with exclusive watch faces and bands.",
+            "image_url": "https://static.nike.com/a/images/f_auto,cs_srgb/w_1536,c_limit/bd001ee3-39a4-45d4-939c-125ad1e926ba/apple-watch-nike.jpg",
+            "price": 399,
+            "features": [
+                "Exclusive watch faces",
+                "Nike bands",
+                "GPS and cellular"
+            ],
+            "colors": [
+                "#F0F0F0",
+                "#1C1C1E"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Apple Watch Hermès",
+            "description": "The Apple Watch Hermès edition with handcrafted leather bands.",
+            "image_url": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/s9-hermes-case-unselect-gallery-1-202403_FMT_WHH?wid=752&hei=720&fmt=p-jpg&qlt=80&.v=1709854555510",
+            "price": 1249,
+            "features": [
+                "Handcrafted leather bands",
+                "Exclusive Hermès watch faces",
+                "GPS and cellular"
+            ],
+            "colors": [
+                "#FFA500",
+                "#1C1C1E"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Apple Watch Edition",
+            "description": "The premium Apple Watch Edition with a titanium or ceramic case.",
+            "image_url": "https://media.vogue.fr/photos/5c362f7075734e5cf3c84e6b/master/w_1600%2Cc_limit/unnamed_jpg_1948.jpg?lang=eng",
+            "price": 849,
+            "features": [
+                "Titanium or ceramic case",
+                "Sapphire crystal",
+                "GPS and cellular"
+            ],
+            "colors": [
+                "#B0B0B0",
+                "#FFFFFF"
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Apple Watch Series 2",
+            "description": "The Apple Watch with built-in GPS and water resistance to 50 meters.",
+            "image_url": "https://cdsassets.apple.com/live/SZLF0YNV/images/sp/112022_cer-white.jpg",
+            "price": 179,
+            "features": [
+                "Built-in GPS",
+                "Water resistance to 50 meters",
+                "Dual-core processor"
+            ],
+            "colors": [
+                "#1C1C1E",
+                "#F0F0F0"
+            ]
+        }
+    ],
+
+    "vision_pro": [
+        {
+            "id": 1,
+            "name": "Apple Vision Pro",
+            "description": "The next-generation mixed reality headset from Apple, featuring advanced optics and spatial audio.",
+            "image_url": "https://assets.videomaker.com/2023/06/Apple-WWCD23-Vision-Pro-with-battery-230605_big.jpg.large_2x-1.jpg",
+            "price": 3499,
+            "features": [
+                "Advanced optics",
+                "Spatial audio",
+                "Mixed reality capabilities",
+                "Eye tracking",
+                "Hand tracking"
+            ],
+            "colors": [
+                "#1C1C1E",
+                "#F0F0F0"
+            ]
+        }
+        
+    ],
+
+    "airpods": [
+        {
+            "id": 1,
+            "name": "AirPods Pro (2nd generation)",
+            "description": "The latest AirPods Pro with active noise cancellation and improved sound quality.",
+            "image_url": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MTJV3?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1694014871985",
+            "price": 249,
+            "features": [
+                "Active noise cancellation",
+                "Transparency mode",
+                "Spatial audio",
+                "Adaptive EQ"
+            ],
+            "colors": [
+                "#FFFFFF"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "AirPods (3rd generation)",
+            "description": "The new AirPods with spatial audio and longer battery life.",
+            "image_url": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MME73?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1632861342000",
+            "price": 179,
+            "features": [
+                "Spatial audio",
+                "Adaptive EQ",
+                "Longer battery life",
+                "Sweat and water resistance"
+            ],
+            "colors": [
+                "#FFFFFF"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "AirPods Max",
+            "description": "Over-ear headphones with high-fidelity audio and active noise cancellation.",
+            "image_url": "https://olcha.uz/image/600x600/products/2022-06-14/besprovodnye-naushniki-apple-airpods-max-white-58621-0.jpeg",
+            "price": 549,
+            "features": [
+                "High-fidelity audio",
+                "Active noise cancellation",
+                "Transparency mode",
+                "Spatial audio"
+            ],
+            "colors": [
+                "#5A5A5F",
+                "#E5E5E5",
+                "#F25D50",
+                "#6F7EB5",
+                "#87E2E2"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "AirPods Pro",
+            "description": "In-ear headphones with active noise cancellation and customizable fit.",
+            "image_url": "https://cdn.mediapark.uz/imgs/636d19ba-e00e-456a-9958-51367ebf6e7e.webp",
+            "price": 249,
+            "features": [
+                "Active noise cancellation",
+                "Transparency mode",
+                "Customizable fit",
+                "Sweat and water resistance"
+            ],
+            "colors": [
+                "#FFFFFF"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "AirPods (2nd generation)",
+            "description": "The classic AirPods with automatic switching and quick access to Siri.",
+            "image_url": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MV7N2?wid=1144&hei=1144&fmt=jpeg&qlt=95&.v=1551489688005",
+            "price": 129,
+            "features": [
+                "Automatic switching",
+                "Quick access to Siri",
+                "Wireless charging case",
+                "Rich, high-quality audio"
+            ],
+            "colors": [
+                "#FFFFFF"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "AirPods with Wireless Charging Case",
+            "description": "AirPods with a wireless charging case for easy charging on the go.",
+            "image_url": "https://m.media-amazon.com/images/I/612GBY6bxRL.jpg",
+            "price": 159,
+            "features": [
+                "Wireless charging case",
+                "Quick access to Siri",
+                "Automatic switching",
+                "Rich, high-quality audio"
+            ],
+            "colors": [
+                "#FFFFFF"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "AirPods with Charging Case",
+            "description": "AirPods with a standard charging case for reliable battery life.",
+            "image_url": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MUYG3?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1701189162290",
+            "price": 149,
+            "features": [
+                "Standard charging case",
+                "Quick access to Siri",
+                "Automatic switching",
+                "Rich, high-quality audio"
+            ],
+            "colors": [
+                "#FFFFFF"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "AirPods Max (Black)",
+            "description": "Over-ear headphones with high-fidelity audio and active noise cancellation in black color.",
+            "image_url": "https://olcha.uz/image/original/products/2022-06-14/besprovodnye-naushniki-apple-airpods-max-black-58620-0.jpeg",
+            "price": 549,
+            "features": [
+                "High-fidelity audio",
+                "Active noise cancellation",
+                "Transparency mode",
+                "Spatial audio"
+            ],
+            "colors": [
+                "#1C1C1E"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "AirPods Max (Silver)",
+            "description": "Over-ear headphones with high-fidelity audio and active noise cancellation in silver color.",
+            "image_url": "https://assets.asaxiy.uz/product/items/desktop/a87ff679a2f3e71d9181a67b7542122c2023033017554121319P1Ctjzz8bM.png.webp",
+            "price": 549,
+            "features": [
+                "High-fidelity audio",
+                "Active noise cancellation",
+                "Transparency mode",
+                "Spatial audio"
+            ],
+            "colors": [
+                "#F0F0F0"
+            ]
+        },
+        {
+            "id": 10,
+            "name": "AirPods Max (Sky Blue)",
+            "description": "Over-ear headphones with high-fidelity audio and active noise cancellation in sky blue color.",
+            "image_url": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/airpods-max-select-skyblue-202011_FV1_FMT_WHH?wid=940&hei=800&fmt=jpeg&qlt=90&.v=1604776025000",
+            "price": 549,
+            "features": [
+                "High-fidelity audio",
+                "Active noise cancellation",
+                "Transparency mode",
+                "Spatial audio"
+            ],
+            "colors": [
+                "#87E2E2"
+            ]
+        }
+    ]
+
+}    
+
